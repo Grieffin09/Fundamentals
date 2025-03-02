@@ -1,2 +1,2 @@
 # Fundamentals
-Getting started with various Python libraries.
+Getting started with Python libraries.
